@@ -1,0 +1,5 @@
+{
+"spell": {"atencion" : "atención"},
+"stop_words": ["Y","y","excelente","gracia","especial","poner","pero","maravilloso","traer","llegar","padre","hija"],
+"excluded_lemmas": ["traer","danos","invaluable","perfecto","suficiente","oportunidad","visto","llegar","bien","mal","excelente"]
+}

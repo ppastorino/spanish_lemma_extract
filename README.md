@@ -22,8 +22,8 @@ The pourpouse of Tagger is identify nouns, verbs and adjetives that are more rel
 
 Additionally we provide a configuration file to customize de process:
 
-- Extend the spell checker with a dictorionary
-- Specify stop words to exlcude meaningless lemmas
+- Extend the spell checker with a custom dictionary
+- Specify a stop word list to exlcude meaningless lemmas
 
 
 

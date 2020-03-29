@@ -20,7 +20,10 @@ Whe have enabled the following components of the processing pipeline:
 The pourpouse of Sentencizer is divide the comments in smaller components. Each component may be related to different topics.
 The pourpouse of Tagger is identify nouns, verbs and adjetives that are more relevant for topic extraction
 
+Additionally we provide a configuration file to customize de process:
 
+- Extend the spell checker with a dictorionary
+- Specify stop words to exlcude meaningless lemmas
 
 
 
